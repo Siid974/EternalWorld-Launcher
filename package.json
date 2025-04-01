@@ -9,7 +9,7 @@
         "email": "siid974@eternalworld.site",
         "url": "https://github.com/Siid974"
     },
-    "url": "http://eternalworld.wstr.fr",
+    "url": "http://eternalworld.wh-web.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
