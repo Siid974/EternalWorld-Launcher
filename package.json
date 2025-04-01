@@ -1,7 +1,7 @@
 {
     "name": "eternalworld-launcher",
     "preductname": "EternalWorld Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Minecraft pour le serveur Eternal World Cobblemon: SA",
     "main": "src/app.js",
     "author": {
